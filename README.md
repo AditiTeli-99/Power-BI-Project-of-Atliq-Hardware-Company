@@ -1,5 +1,7 @@
 ## Power-BI-Project-of-Atliq-Hardware-Company
 
+Power BI Project Link: https://app.powerbi.com/view?r=eyJrIjoiMWUyNWRlNDYtODQxNC00YjFlLTgzYTctZTdhNzBhM2U3ZGM0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
 
 📈 Helping AtliQ Hardware Make Smart Choices with Data 🚀
 
@@ -26,4 +28,5 @@ I also became an expert in supply chain terms, like Absolute error and Net error
 Together, we made a fantastic report. AtliQ Hardware can now use it to answer important questions using their data. It's like having a superpower for making decisions!
 
 This project showed me how powerful data can be for a business.
-I would like to thank very much to Dhaval Patel sir and Hemanand Vadivel sir for making this project happen and guiding me with Power BI in such an amazing way.
+
+
