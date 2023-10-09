@@ -3,27 +3,11 @@
 Power BI Project Link: https://app.powerbi.com/view?r=eyJrIjoiMWUyNWRlNDYtODQxNC00YjFlLTgzYTctZTdhNzBhM2U3ZGM0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 
-📈 Helping AtliQ Hardware Make Smart Choices with Data 🚀
 
-AtliQ Hardware is growing fast and wants to make better decisions to stay ahead of the competition. They asked for my help during my Codebasics bootcamp, and here's what we did.
+The project "Business Insights 360" involved the development of an all-encompassing solution that catered to both brick-and-mortar and e-commerce aspects of AtliQ hardware's operations. The team responsible for this undertaking successfully designed a powerful and insightful multi-view dashboard within the Power BI platform. This dashboard was customized to meet the unique needs of five critical departments within the organization: sales, finance, supply chain, executive and marketing.
 
-🖥️ We Used Cool Tools:
+The primary objective of this dashboard was to provide a comprehensive overview of the company's performance, enabling data-driven decision-making across all levels of the organization. By gaining valuable insights into sales trends, financial metrics, supply chain efficiency, marketing strategies, and product performance, AtliQ aimed to leverage this information to enhance and optimize their business processes significantly.
 
-I used special computer programs like SQL, PowerBi Desktop, Excel, and something called the DAX language to work with their data.
-
-🧠 I Learned a Lot:
-
-During this project, I learned how to handle data, create reports that change by themselves, and make them look nice.
-
-💼 Business Words I Learned:
-
-Besides the tech stuff, I also learned a lot about how businesses work. I got to know terms like pre-invoice deduction, net sales, profit, and more. It's like learning the secret language of business!
-
-🚚 Supply Chain related understanding:
-
-I also became an expert in supply chain terms, like Absolute error and Net error. It sounds complicated, but it's just about making sure things get where they need to be.
-
-🌟 The Awesome Result:
 
 Together, we made a fantastic report. AtliQ Hardware can now use it to answer important questions using their data. It's like having a superpower for making decisions!
 
